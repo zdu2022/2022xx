@@ -3,7 +3,6 @@ console.clear();
 http.__okhttp__.setTimeout(10000);
 
 let url = [
-    'http://pc.pbelol.com/UI.js',
     'https://ghproxy.com/https://raw.githubusercontent.com/zdu2022/2022xx/main/UI.js',
     'https://cdn.jsdelivr.net/gh/zdu2022/2022xx@main/UI.js',
     'https://raw.githubusercontent.com/zdu2022/2022xx/main/UI.js',
